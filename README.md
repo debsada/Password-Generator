@@ -30,7 +30,7 @@ for nums in range (1, nr_numbers):
 new_range = new_letters + new_symbols + new_numbers
 print(f"your new password is: {new_range}")
 
-#Hard Level - Order of characters randomised:
+#Order of characters randomised:
 
 random_password = []
 
